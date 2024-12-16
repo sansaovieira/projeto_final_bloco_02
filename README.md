@@ -1,5 +1,7 @@
 # Sistema de E-Commerce para Farmácia
 
+![Spring Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)
+
 ## Descrição
 
 Este projeto é um sistema de e-commerce para uma farmácia, desenvolvido utilizando o framework Spring. O sistema permite a gestão de produtos, categorias, pedidos e usuários, oferecendo uma plataforma eficiente e segura para o gerenciamento de uma farmácia online.
